@@ -17,12 +17,12 @@
             <table class="table table-bordered table-hover table-striped mb-0 bg-white">
                 <thead>
                     <tr>
-                        <th>First Name</th>
-                        <th>Last Name</th>
-                        <th>Email</th>
-                        <th>Age</th>
-                        <th>Position</th>
-                        <th>Action</th>
+                        <th>First Name =</th>
+                        <th>Last Name =</th>
+                        <th>Email =</th>
+                        <th>Age =</th>
+                        <th>Position =</th>
+                        <th>Action =</th>
                     </tr>
                 </thead>
                 <tbody>
