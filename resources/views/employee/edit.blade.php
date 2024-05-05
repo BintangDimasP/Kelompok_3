@@ -5,7 +5,7 @@
         <div class="p-5 bg-light rounded-3 col-xl-6">
             <div class="mb-3 text-center">
                 <i class="bi-person-circle fs-1"></i>
-                <h4>Edit Employee</h4>
+                <h4>For Edit Employee</h4>
             </div>
             <hr>
             <div class="row">
